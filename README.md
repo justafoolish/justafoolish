@@ -1,1 +1,1 @@
-![alt text](./umaru.jpeg)
+![alt text](./umaru.png)
